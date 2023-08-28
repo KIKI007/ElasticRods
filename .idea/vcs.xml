@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/MeshFEM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/MeshFEM/3rdparty/pybind11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/MeshFEM/3rdparty/pybind11/tools/clang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/RotationOptimization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/libigl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/spectra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3rdparty/visvalingam_simplify" vcs="Git" />
+  </component>
+</project>

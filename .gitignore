@@ -11,3 +11,4 @@ __pycache__
 bin/
 .vs/
 obj/
+cmake-build-debug/*
